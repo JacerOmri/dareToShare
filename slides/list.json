@@ -1,0 +1,56 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "resources/job.jpg"
+        }
+    },
+    {
+        "filename": "confused.md",
+        "attr": {
+            "data-background": "resources/confused.jpg"
+        }
+    },
+    {
+        "filename": "self.md",
+        "attr": {
+            "data-background": "resources/self.jpg"
+        }
+    },
+    {
+        "filename": "think.md",
+        "attr": {
+            "data-background": "resources/think.jpg"
+        }
+    },
+    {
+        "filename": "try.md",
+        "attr": {
+            "data-background": "resources/try.jpg"
+        }
+    },
+    {
+        "filename": "unhappy.md",
+        "attr": {
+            "data-background": "/resources/unhappy.jpg"
+        }
+    },
+    {
+        "filename": "confidence.md",
+        "attr": {
+            "data-background": "resources/confidence.jpg"
+        }
+    },
+    {
+        "filename": "conclusion.md",
+        "attr": {
+            "data-background": "resources/path.jpg"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "resources/thanks.jpg"
+        }
+    }
+]
